@@ -9,7 +9,7 @@ A solo project from the [Scrimba Frontend Developer Career Path](https://scrimba
   - [Screenshots](#screenshots)
   - [Links](#links)
   - [Built with](#built-with)
-- [Future Goals] (#future-goals)
+- [Future Goals](#future-goals)
 
   ## Overview
 

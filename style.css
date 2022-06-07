@@ -1,0 +1,96 @@
+body {
+    width: 550px;
+    background-color: #1F2937;
+    font-family: 'Inter', sans-serif;
+    color: white;
+    margin-left: 50px;
+}
+
+#title {
+     font-size: 40px;
+     margin-bottom: 0;
+     margin-top: 118px;
+}
+
+#green-title {
+    color: #4ADF86;
+}
+
+#description {
+    font-weight: 100;
+    margin-top: 10px;
+}
+
+#password-btn {
+    color: inherit;
+    background-color: #10B981;
+    font-family: inherit;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    padding: 10px 16px;
+    gap: 12px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 50px;
+}
+
+#thunderbolt-icon {
+    height: 20px;
+}
+
+hr {
+    border: 1px solid #2F3E53;
+    width: 450px;
+    margin-left: 0;
+    margin-bottom: 35px;
+}
+
+.passwords {
+    width: 178px;
+    height: 40px;
+    color: #55F991;
+    text-align: center;
+    background-color: #273549;
+    background-image: url(images/threedots-icon.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 6px 0 0 6px;
+    border: none;
+}
+
+.password-container {
+    display: flex;
+    justify-content: start;
+    gap: 24px;
+    margin-top: 28px;
+}
+
+#password-length {
+    font-family: inherit;
+    font-size: 14px;
+    width: 218px;
+    color: inherit;
+    background-color: #273549;
+    text-align: center;
+    padding: 8px 8px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 35px;
+}
+
+.copy-icon {
+    height: 20px;
+    padding-top: 5px;
+}
+
+.password-group {
+    display: flex;
+}
+
+.copy-button {
+    background-color: #10B981;
+    border-radius: 0 6px 6px 0;
+    border: none;
+}
